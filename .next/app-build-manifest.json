@@ -19,8 +19,8 @@
     "/dashboard/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/layout.js",
-      "static/css/app/dashboard/layout.css"
+      "static/css/app/dashboard/layout.css",
+      "static/chunks/app/dashboard/layout.js"
     ],
     "/dashboard/invoices/page": [
       "static/chunks/webpack.js",
